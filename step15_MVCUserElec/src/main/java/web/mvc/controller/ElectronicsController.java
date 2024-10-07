@@ -176,7 +176,7 @@ public class ElectronicsController implements Controller {
 		
 		elecService.delete(modelNum, password , saveDir);
 		
-		return new ModelAndView("front", true);
+		return new ModelAndView("front", true);// 삭제되면 처음 페이지로
 	}
 	
 }//classEnd
