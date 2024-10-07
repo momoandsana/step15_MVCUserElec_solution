@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/step15_MVCUserElec/src/main/webapp/WEB-INF/lib/ojdbc8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/step15_MVCUserElec/src/main/webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/step15_MVCUserElec/src/main/webapp/WEB-INF/lib/standard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/step15_MVCUserElec/src/main/webapp/WEB-INF/lib/jakarta.servlet.jsp.jstl-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/step15_MVCUserElec/src/main/webapp/WEB-INF/lib/jstl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
